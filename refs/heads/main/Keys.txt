@@ -1,0 +1,17 @@
+#profile-update-interval: 6
+#profile-title: LifeVPN
+#support-url: https://t.me/vsem_po_vpn
+#profile-web-page-url: https://t.me/vsem_po_vpn
+#announce: https://t.me/Wd_Life от 24.03
+
+
+
+vless://001a44d7-69e6-07d0-8d11-828fe2119621@109.120.189.174:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%234
+vless://a22f6494-f371-07d0-bad0-8df9594b8e45@109.120.189.174:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%237
+vless://3d737761-5951-462e-86c1-ff921d9f9999@84.23.52.180:8443?path=%2Fapi%2Fmaps&security=reality&encryption=none&extra=null&pbk=YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI&fp=qq&type=xhttp&sni=5post-gate-test.x5.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20VK
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@vk1.zqwerty.ru:2053?security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&headerType=none&fp=chrome&type=tcp&sni=music.yandex.ru&sid=0858af97f4e7324d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20VK
+vless://a22f6494-f371-07d0-bad0-8df9594b8e45@109.120.189.174:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%236
+vless://3d737761-5951-462e-86c1-ff921d9f9999@146.185.242.210:8443?security=reality&encryption=none&pbk=3MQ8keneMeXCznwXalfPuzwPM3bR7gIoA5Hvow2KKj0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate-test.x5.ru#%F0%9F%8C%90%20Anycast-IP%20%5B*CIDR%5D%20VK
+vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@5.188.142.9:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20VK
+vless://a22f6494-f371-1f40-bad0-8df9594b8e45@5.188.141.186:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20VK
+vless://5cf8fe5e-d148-409a-bf91-1c5dbb53c87b@89.208.230.215:443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&fp=edge&security=reality&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8#%F0%9F%8C%90%20Anycast-IP%20%5B*CIDR%5D%20VK%20%281%29
